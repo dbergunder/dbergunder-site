@@ -1,4 +1,4 @@
-baseurl = "https://dbergunder.github.io"
+baseurl = "http://blog.dev/public"
 languageCode = "en-us"
 title = "Developer Blog"
 # Enable comments by entering your Disqus shortname
@@ -29,7 +29,7 @@ theme = "hugo-icarus-theme"
     date_format = "2006-01-02"
 
     # Add custom assets with their paths relative to the static folder
-	custom_css = []
+	custom_css = ["css/additional.css"]
 	custom_js  = []
 
 # Create custom menu entries by defining a label and a link for
