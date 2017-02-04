@@ -5,7 +5,7 @@ menu = ""
 date = "2017-01-17T23:19:45-06:00"
 title = "Why start writing?"
 description = "Writing as a way to contribute back to the community and grow as a developer."
-categories = [""]
+categories = ["general"]
 tags = ["Initial Commit"]
 +++
 > It's not that I have poor grammer, it's that my keyboard is insubordinate.
